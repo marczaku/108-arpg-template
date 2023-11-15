@@ -1,4 +1,12 @@
-# 108-arpg-template
+# INSERT YOUR GAME TITLE HERE
+
+PUT A SHORT SUMMARY OF YOUR GAME HERE
+
+## TeamName
+- Team Member 1
+- Team Member 2
+- Team Member 3
+- Team Member 4
 
 ## Planning
 - [Project Plan (Replace URL)](https://miro.com)
